@@ -95,10 +95,10 @@
 		+		'position: absolute; '
 		+		'width: 100%; height: 100%; '
 		+		'top: -100%; left: 0; '
-		+		'z-index: 999999999 !important; '
+		+		'z-index: 2147483647 !important; '
 		+	'} '
 		+	'#readable_app_cover { ' 
-		+		'z-index: 999999998 !important; '
+		+		'z-index: 2147483647 !important; '
 		+		'margin: 0; padding: 0; border: 0; '
 		+	'} '
 	;
